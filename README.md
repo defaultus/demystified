@@ -8,4 +8,4 @@ a play on the "the best way to learn it is to try try and explain it" and "you h
 this is obviously very opiniionated and is mainly the functions I myself struggled to understand when learning the language
 
 # plans
-after I am satisfied with the amount of python explanations i plan to move to a different language (like javascript) so eventually is someone is confised about any built in function of a language they could come here and have it explained to them by someone who doesn't use complex words or terminology 
+after I am satisfied with the amount of python explanations i plan to move to a different language (like javascript) so eventually is someone is confused about any built in function of a language they could come here and have it explained to them by someone who doesn't use complex words or terminology 
